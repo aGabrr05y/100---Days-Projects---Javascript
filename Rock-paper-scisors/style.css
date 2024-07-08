@@ -1,0 +1,33 @@
+
+
+.container {
+    display: grid;
+    place-items: center;
+    max-width: 500px;   
+    margin-left: 35%;
+    box-shadow: 2px 1px 3px 1px ;
+    border-radius: 8px;
+}
+
+
+.rock {
+    background-color: green;
+    padding: 30px;
+    border: transparent;
+    border-radius: 8px;
+    
+}
+
+.scissors {
+    background-color: red;
+    padding: 30px;
+    border: transparent;
+    border-radius: 8px;
+}
+
+.paper {
+    background-color: blue;
+    padding: 30px; 
+    border: transparent;
+    border-radius: 8px;
+}
